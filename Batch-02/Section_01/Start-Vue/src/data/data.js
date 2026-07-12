@@ -35,7 +35,7 @@ const people = [
     image: "https://media.istockphoto.com/id/1928147121/photo/portrait-of-cheerful-it-professional-in-office.jpg?s=612x612&w=0&k=20&c=swcaqFsthGu3hRVJTBgOToqYtxu66Je2auGKSuJPuqY=",
     name: "John Doe",
     designation: "Frontend Developer",
-    location: "New York, USA",
+    location: "Washington, USA"
   },
   {
     image: "https://i.postimg.cc/hP7m22jz/this-is-where-i-let-my-imagination-get-work-portrait-young-man-standing-office-with-designers-backgr.avif",
